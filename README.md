@@ -42,22 +42,28 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 2. Schematic of CMOS Inverter:
 
-<img width="1920" height="1080" alt="file_2025-09-03_04 20 13 1" src="https://github.com/user-attachments/assets/9f37d69d-7d43-41f1-8bc2-1d961daa703d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5a277e1-189a-42c5-b14f-b9e0328cf9a5" />
+
 
 
 #### 3. Transient Response Setup:
 
-![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38f11e07-c137-442b-a4c3-b90e97b89d8f" />
 
 
-![image](https://github.com/user-attachments/assets/2611bd19-13be-4413-a662-9de3b555981d)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c52b36-6b89-4040-9e68-7f99fcef7fd2" />
+
+
 
 
 
 ## Output
 #### 1.Transient Analysis Output
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-03 091927 1" src="https://github.com/user-attachments/assets/399a94d2-655f-4792-977f-dbb715a8830d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b069519a-b111-42a1-9dbe-55783e4b2e23" />
+
 
 
 
@@ -66,14 +72,3 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
-
-
-
-
-
-
-
-
-
-
-
